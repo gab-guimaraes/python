@@ -3,6 +3,11 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/python-POO/1-class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python-POO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python-POO/3-objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python-POO/3-Spotify" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python-POO/4-CarrinhoDeCompras" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python-POO/6-heranca" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
